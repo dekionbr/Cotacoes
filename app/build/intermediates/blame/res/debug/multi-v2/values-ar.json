@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\proj\\CalculadoraCotaes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "C:\\proj\\Cotacoes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Fulllab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f46d8c96d8de237c781b8436282d000e\\res\\values-ar\\values-ar.xml",
